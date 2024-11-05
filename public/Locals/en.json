@@ -1,0 +1,73 @@
+{
+    "navbar":{
+        "link1":"Information",
+        "link2":"About Us",
+        "link3":"Enterprises",
+        "link4":"Our advantages",
+        "link5":"News",
+        "link6":"Communication",
+        "link0":"Home"
+    },
+    "header":{
+        "text":"Excellence in everything",
+        "btn1":"Our Project",
+        "btn2":"Connection"
+    },
+    "service":{
+        "title":"Our services",
+        "text1":"You can get free information from our company's specialists",
+        "text2":"Documents clearance",
+        "text3":"Repair correction service",
+        "text4":"Team of professionals"
+    },
+    "section":{
+        "title":"Our company",
+        "text1":"Number of employees",
+        "text2":"Objects",
+        "text3":"Special equipment",
+        "text4":"14 years on the market"
+    },
+    "main":{
+        "title":"Your dream home"
+    },
+    "project":{
+        "title":"Our Projects",
+        "text1":"This is a large-scale socially significant project. The cultural and entertainment cluster in Tashkent is one of the new attractions.",
+        "text2":"Multifunctional residential complex created to provide comfort to the residents of Uzbekistan.",
+        "text3":"A grandiose residential area in the heart of the capital.",
+        "text4":"Fonon is a jewelry production plant in Uzbekistan built on the basis of Italian ones in 2020. Fonon is the only large enterprise in Central Asia producing jewelry from precious metals in European and Oriental styles,",
+        "text5":"International kindergarten and school located in the international business center of Tashkent City.",
+        "text6":"This is an educational institution that provides knowledge at an international level"
+    },
+    "news":{
+        "title":"All our news",
+        "name1":"Who is a construction project manager?",
+        "text1":"The Discover Invest company has several construction project managers. This is a specialist responsible for the successful implementation of the construction site entrusted to him. He manages the entire process, from the planning stage and approval of project documentation to the commissioning of the building, and sometimes also performs post-project support. Latest",
+        "name2":"Congratulations to everyone on the upcoming 2025!",
+        "text2":"The sophisticated interior design of the halls will create an atmosphere of comfort even before entering the apartment, and a convenient navigation system will help you easily get to the floor you need or exit to the territory",
+        "name3":"Location",
+        "text3":"The transport infrastructure allows you to easily move to anywhere in the city: you just have to choose the desired and desired direction.",
+        "name4":"We continue to introduce you to the multifunctional objects of Discover Invest.",
+        "text4":"We continue to introduce you to the multifunctional objects of Discover Invest. One of them is the Yangi Choshtepa residential complex built in the Yangihayat district of Tashkent. The total construction area is 12 hectares. To date, 29 houses have been built.",
+        "btn":"News"
+    },
+    "partner":{
+        "title":"Exchange ideas with partners"
+    },
+    "about":{
+        "btn":"Learn More"
+    },
+    "message":{
+        "text":"Do you have any questions, suggestions or requests?",
+        "btn":"Send",
+        "name":"Your name",
+        "tel":"Your phone",
+        "text2":"Your message"
+    },
+    "footer":{
+        "text1":"Subscribe to our social networks",
+        "text2":"Our company",
+        "text3":"Communication",
+        "link":"Our Projects"
+    }
+}

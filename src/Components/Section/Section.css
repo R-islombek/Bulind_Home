@@ -1,0 +1,129 @@
+.section__title{
+    font-size:34px;
+    color: white;
+    font-weight: 500;
+}
+.section{
+    padding-top: 140px;
+    padding-bottom: 170px;
+    margin-top: 0;
+}
+.section__list{
+    display: flex;
+    align-items: center;
+    padding-top:60px;
+    gap: 60px;
+}
+.section__name{
+    font-size:50px;
+    color: white;
+    font-weight:600;
+}
+.section__text{
+    color: white;
+    font-size:18px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+
+@media(max-width:1120px){
+    .container{
+        width: 1000px;
+    }
+}
+@media(max-width:1020px){
+    .container{
+        width: 900px;
+    }
+}
+@media(max-width:920px){
+    .container{
+        width: 800px;
+    }
+    .section{
+        padding-top: 120px;
+        padding-bottom: 150px;
+        margin-top: 0;
+    }
+}
+@media(max-width:820px){
+    .container{
+        width: 700px;
+    }
+    .section{
+        padding-top: 100px;
+        padding-bottom: 130px;
+        margin-top: 0;
+    }
+    .section__name{
+        font-size:40px;
+    }
+    .section__list{
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    .section__item{
+        width: 25%;
+    }
+}
+@media(max-width:720px){
+    .container{
+        width: 600px;
+    }
+    .section{
+        padding-top: 90px;
+        padding-bottom: 120px;
+        margin-top: 0;
+    }
+}
+@media(max-width:620px){
+    .container{
+        width: 500px;
+    }
+    .section{
+        padding-top: 70px;
+        padding-bottom: 80px;
+        margin-top: 0;
+    }
+    .section__list{
+        padding-top: 40px;
+    }
+}
+@media(max-width:520px){
+    .container{
+        width: 400px;
+    }
+    .section{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 0;
+    }
+    .section__text{
+        font-size: 16px;
+    }
+    .section__list{
+        flex-wrap: wrap;
+        justify-content:space-around;
+    }
+   
+}
+@media(max-width:420px){
+    .container{
+        width: 100%;
+        padding: 15px;
+    }
+    .section__list{
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .section__item{
+        text-align: center;
+        width: 100%;
+    }
+    .section__title{
+        text-align: center;
+    }
+}

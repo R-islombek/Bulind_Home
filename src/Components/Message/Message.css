@@ -1,0 +1,143 @@
+.message{
+    background-color:#202733;
+    padding-top:120px;
+    padding-bottom: 120px;
+}
+.message__container{
+    border-radius: 25px;
+    padding:40px 70px;
+}
+.message__title{
+    font-size:30px;
+    color: white;
+    line-height: 44px;
+    font-weight:400;
+    max-width: 370px;
+    padding-bottom:50px;
+}
+#name,#tel{
+    width: 430px;
+    height: 45px;
+    border-radius: 20px;
+    border: none;
+    background-color:#d9d9d9;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+#text{
+    width: 430px;
+    height: 180px;
+    border-radius: 20px;
+    border: none;
+    background-color: #d9d9d9;
+    border: none;
+    margin-top: 5px;
+    margin-bottom:25px;
+    padding: 15px;
+}
+.form__btn{
+    width: 210px;
+    height: 45px;
+    border-radius: 25px;
+    color: white;
+    border: 1px solid white;
+    background-color:transparent;
+    font-size: 16px;
+}
+.form__btn:hover{
+    background-color: white;
+    color: #202733;
+    transition: 0.3s;
+        
+}
+
+
+@media(max-width:1120px){
+    .container{
+        width: 1000px;
+    }
+}
+@media(max-width:1020px){
+    .container{
+        width: 900px;
+    }
+}
+@media(max-width:920px){
+    .container{
+        width: 800px;
+    }
+    .message__title{
+        max-width: 100%;
+    }
+    #text,#name,#tel{
+        width: 100%;
+    }
+    .form__btn{
+        width: 100%;
+    }
+}
+@media(max-width:820px){
+    .container{
+        width: 700px;
+    }
+}
+@media(max-width:720px){
+    .container{
+        width: 600px;
+    }
+    .message__container{
+        padding:30px 40px;
+    }
+    .message__title{
+        padding-bottom: 30px;
+        font-size: 28px;
+    }
+}
+@media(max-width:620px){
+    .container{
+        width: 500px;
+    }
+    .message__container{
+        padding:15px 15px;
+    }
+    .message__title{
+        padding-bottom: 20px;
+        font-size: 28px;
+        line-height: 34px;
+        text-align: center;
+    }
+    .message{
+        padding-top:100px;
+    padding-bottom: 100px;
+    }
+}
+@media(max-width:520px){
+    .container{
+        width: 400px;
+    }
+    .message{
+        padding-top:80px;
+    padding-bottom: 80px;
+    }
+    .message__title{
+        padding-bottom: 20px;
+        font-size: 26px;
+        line-height: 34px;
+        text-align: center;
+    }
+}
+@media(max-width:420px){
+    .container{
+        width: 100%;
+        padding:15px;
+    }
+    .message{
+        padding-top:0px;
+    padding-bottom: 0px;
+    }
+    .message__container{
+        border-radius: 0;
+    }
+
+}
+

@@ -1,0 +1,23 @@
+#modal__select{
+    color: #2c3442;
+    display: block;
+
+}
+#modal__option{
+    color: #2c3442;
+    background-color: white;
+    display: block;
+}
+.navbar__link_modal{
+    font-size: 18px;
+    color: #2c3442;
+}
+.navbar__link_modal:hover{
+    border-bottom: 2px solid #2c3442;
+    padding-bottom:5px;
+
+}
+.modal__box{
+    display: flex;
+    gap: 10px;
+}
